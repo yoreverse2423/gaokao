@@ -1,0 +1,762 @@
+{
+  "version": "2017年版2020年修订·附录1，已核PDF；不冒称最新2027考纲",
+  "checked_date": "2026-11-15 Asia/Shanghai",
+  "notice_url": "https://www.moe.gov.cn/srcsite/A26/s8001/202006/t20200603_462199.html",
+  "pdf_mirror_url": "https://aeq.zjnu.edu.cn/_upload/article/files/0a/1f/7ca305bb4dd39f15ee4bd431f595/5cb0be9c-f73c-472f-b71a-2374a3777eaf.pdf",
+  "pdf_sha256": "7a187079f1fffe8ae834fdeff25bac9dd0e7de6b979db40fd875786dc0365977",
+  "warning": "72=文言32（10+10+12）+诗词曲40。推荐目录不等于高考必考范围。2025修订版已发现教研部门解读，本次尚未逐篇核对其附录及2027届广西适用通知；不得把2020版说成已核实的最新考纲。",
+  "entries": [
+    {
+      "id": "C01",
+      "category": "文言文·必修",
+      "title": "《论语》十二章",
+      "author": "《论语》",
+      "scope": "人而不仁；朝闻道；君子喻于义；见贤思齐焉；质胜文则野；士不可以不弘毅；譬如为山；知者不惑；有一言而可以终身行之者乎；小子何莫学夫《诗》；君子食无求饱；克己复礼为仁",
+      "source_pages": "54–57（书内页码）",
+      "applicable_stage": "普通高中；课标按课程类型分类，并未按高一/高二/高三限定",
+      "exam_status": "仅课标推荐目录；2027广西考试适用范围未核实"
+    },
+    {
+      "id": "C02",
+      "category": "文言文·必修",
+      "title": "劝学",
+      "author": "《荀子》",
+      "scope": "学不可以已……用心躁也",
+      "source_pages": "54–57（书内页码）",
+      "applicable_stage": "普通高中；课标按课程类型分类，并未按高一/高二/高三限定",
+      "exam_status": "仅课标推荐目录；2027广西考试适用范围未核实"
+    },
+    {
+      "id": "C03",
+      "category": "文言文·必修",
+      "title": "屈原列传",
+      "author": "司马迁",
+      "scope": "屈平疾王听之不聪也……虽与日月争光可也",
+      "source_pages": "54–57（书内页码）",
+      "applicable_stage": "普通高中；课标按课程类型分类，并未按高一/高二/高三限定",
+      "exam_status": "仅课标推荐目录；2027广西考试适用范围未核实"
+    },
+    {
+      "id": "C04",
+      "category": "文言文·必修",
+      "title": "谏太宗十思疏",
+      "author": "魏征",
+      "scope": "全篇",
+      "source_pages": "54–57（书内页码）",
+      "applicable_stage": "普通高中；课标按课程类型分类，并未按高一/高二/高三限定",
+      "exam_status": "仅课标推荐目录；2027广西考试适用范围未核实"
+    },
+    {
+      "id": "C05",
+      "category": "文言文·必修",
+      "title": "师说",
+      "author": "韩愈",
+      "scope": "全篇",
+      "source_pages": "54–57（书内页码）",
+      "applicable_stage": "普通高中；课标按课程类型分类，并未按高一/高二/高三限定",
+      "exam_status": "仅课标推荐目录；2027广西考试适用范围未核实"
+    },
+    {
+      "id": "C06",
+      "category": "文言文·必修",
+      "title": "阿房宫赋",
+      "author": "杜牧",
+      "scope": "全篇",
+      "source_pages": "54–57（书内页码）",
+      "applicable_stage": "普通高中；课标按课程类型分类，并未按高一/高二/高三限定",
+      "exam_status": "仅课标推荐目录；2027广西考试适用范围未核实"
+    },
+    {
+      "id": "C07",
+      "category": "文言文·必修",
+      "title": "六国论",
+      "author": "苏洵",
+      "scope": "全篇",
+      "source_pages": "54–57（书内页码）",
+      "applicable_stage": "普通高中；课标按课程类型分类，并未按高一/高二/高三限定",
+      "exam_status": "仅课标推荐目录；2027广西考试适用范围未核实"
+    },
+    {
+      "id": "C08",
+      "category": "文言文·必修",
+      "title": "答司马谏议书",
+      "author": "王安石",
+      "scope": "全篇",
+      "source_pages": "54–57（书内页码）",
+      "applicable_stage": "普通高中；课标按课程类型分类，并未按高一/高二/高三限定",
+      "exam_status": "仅课标推荐目录；2027广西考试适用范围未核实"
+    },
+    {
+      "id": "C09",
+      "category": "文言文·必修",
+      "title": "赤壁赋",
+      "author": "苏轼",
+      "scope": "全篇",
+      "source_pages": "54–57（书内页码）",
+      "applicable_stage": "普通高中；课标按课程类型分类，并未按高一/高二/高三限定",
+      "exam_status": "仅课标推荐目录；2027广西考试适用范围未核实"
+    },
+    {
+      "id": "C10",
+      "category": "文言文·必修",
+      "title": "项脊轩志",
+      "author": "归有光",
+      "scope": "全篇",
+      "source_pages": "54–57（书内页码）",
+      "applicable_stage": "普通高中；课标按课程类型分类，并未按高一/高二/高三限定",
+      "exam_status": "仅课标推荐目录；2027广西考试适用范围未核实"
+    },
+    {
+      "id": "C11",
+      "category": "文言文·选择性必修",
+      "title": "子路、曾晳、冉有、公西华侍坐",
+      "author": "《论语》",
+      "scope": "全篇",
+      "source_pages": "54–57（书内页码）",
+      "applicable_stage": "普通高中；课标按课程类型分类，并未按高一/高二/高三限定",
+      "exam_status": "仅课标推荐目录；2027广西考试适用范围未核实"
+    },
+    {
+      "id": "C12",
+      "category": "文言文·选择性必修",
+      "title": "报任安书",
+      "author": "司马迁",
+      "scope": "古者富贵而名摩灭……难为俗人言也",
+      "source_pages": "54–57（书内页码）",
+      "applicable_stage": "普通高中；课标按课程类型分类，并未按高一/高二/高三限定",
+      "exam_status": "仅课标推荐目录；2027广西考试适用范围未核实"
+    },
+    {
+      "id": "C13",
+      "category": "文言文·选择性必修",
+      "title": "过秦论（上）",
+      "author": "贾谊",
+      "scope": "上篇",
+      "source_pages": "54–57（书内页码）",
+      "applicable_stage": "普通高中；课标按课程类型分类，并未按高一/高二/高三限定",
+      "exam_status": "仅课标推荐目录；2027广西考试适用范围未核实"
+    },
+    {
+      "id": "C14",
+      "category": "文言文·选择性必修",
+      "title": "礼运",
+      "author": "《礼记》",
+      "scope": "大道之行也……是谓大同",
+      "source_pages": "54–57（书内页码）",
+      "applicable_stage": "普通高中；课标按课程类型分类，并未按高一/高二/高三限定",
+      "exam_status": "仅课标推荐目录；2027广西考试适用范围未核实"
+    },
+    {
+      "id": "C15",
+      "category": "文言文·选择性必修",
+      "title": "陈情表",
+      "author": "李密",
+      "scope": "全篇",
+      "source_pages": "54–57（书内页码）",
+      "applicable_stage": "普通高中；课标按课程类型分类，并未按高一/高二/高三限定",
+      "exam_status": "仅课标推荐目录；2027广西考试适用范围未核实"
+    },
+    {
+      "id": "C16",
+      "category": "文言文·选择性必修",
+      "title": "归去来兮辞（并序）",
+      "author": "陶潜",
+      "scope": "含序",
+      "source_pages": "54–57（书内页码）",
+      "applicable_stage": "普通高中；课标按课程类型分类，并未按高一/高二/高三限定",
+      "exam_status": "仅课标推荐目录；2027广西考试适用范围未核实"
+    },
+    {
+      "id": "C17",
+      "category": "文言文·选择性必修",
+      "title": "种树郭橐驼传",
+      "author": "柳宗元",
+      "scope": "全篇",
+      "source_pages": "54–57（书内页码）",
+      "applicable_stage": "普通高中；课标按课程类型分类，并未按高一/高二/高三限定",
+      "exam_status": "仅课标推荐目录；2027广西考试适用范围未核实"
+    },
+    {
+      "id": "C18",
+      "category": "文言文·选择性必修",
+      "title": "五代史伶官传序",
+      "author": "欧阳修",
+      "scope": "全篇",
+      "source_pages": "54–57（书内页码）",
+      "applicable_stage": "普通高中；课标按课程类型分类，并未按高一/高二/高三限定",
+      "exam_status": "仅课标推荐目录；2027广西考试适用范围未核实"
+    },
+    {
+      "id": "C19",
+      "category": "文言文·选择性必修",
+      "title": "石钟山记",
+      "author": "苏轼",
+      "scope": "全篇",
+      "source_pages": "54–57（书内页码）",
+      "applicable_stage": "普通高中；课标按课程类型分类，并未按高一/高二/高三限定",
+      "exam_status": "仅课标推荐目录；2027广西考试适用范围未核实"
+    },
+    {
+      "id": "C20",
+      "category": "文言文·选择性必修",
+      "title": "登泰山记",
+      "author": "姚鼐",
+      "scope": "全篇",
+      "source_pages": "54–57（书内页码）",
+      "applicable_stage": "普通高中；课标按课程类型分类，并未按高一/高二/高三限定",
+      "exam_status": "仅课标推荐目录；2027广西考试适用范围未核实"
+    },
+    {
+      "id": "C21",
+      "category": "文言文·选修",
+      "title": "《老子》八章",
+      "author": "《老子》",
+      "scope": "第八章上善若水；第十二章五色令人目盲；第十五章古之善为士者；第二十二章曲则全；第二十四章跂者不立；第二十七章善行无辙迹；第三十三章知人者智；第八十一章信言不美",
+      "source_pages": "54–57（书内页码）",
+      "applicable_stage": "普通高中；课标按课程类型分类，并未按高一/高二/高三限定",
+      "exam_status": "仅课标推荐目录；2027广西考试适用范围未核实"
+    },
+    {
+      "id": "C22",
+      "category": "文言文·选修",
+      "title": "季氏将伐颛臾",
+      "author": "《论语》",
+      "scope": "全篇",
+      "source_pages": "54–57（书内页码）",
+      "applicable_stage": "普通高中；课标按课程类型分类，并未按高一/高二/高三限定",
+      "exam_status": "仅课标推荐目录；2027广西考试适用范围未核实"
+    },
+    {
+      "id": "C23",
+      "category": "文言文·选修",
+      "title": "大学",
+      "author": "《礼记》",
+      "scope": "古之欲明明德于天下者……壹是皆以修身为本",
+      "source_pages": "54–57（书内页码）",
+      "applicable_stage": "普通高中；课标按课程类型分类，并未按高一/高二/高三限定",
+      "exam_status": "仅课标推荐目录；2027广西考试适用范围未核实"
+    },
+    {
+      "id": "C24",
+      "category": "文言文·选修",
+      "title": "中庸",
+      "author": "《礼记》",
+      "scope": "喜怒哀乐之未发……万物育焉；博学之……人十能之，己千之",
+      "source_pages": "54–57（书内页码）",
+      "applicable_stage": "普通高中；课标按课程类型分类，并未按高一/高二/高三限定",
+      "exam_status": "仅课标推荐目录；2027广西考试适用范围未核实"
+    },
+    {
+      "id": "C25",
+      "category": "文言文·选修",
+      "title": "《孟子》一则",
+      "author": "《孟子》",
+      "scope": "敢问夫子恶乎长……则不能也",
+      "source_pages": "54–57（书内页码）",
+      "applicable_stage": "普通高中；课标按课程类型分类，并未按高一/高二/高三限定",
+      "exam_status": "仅课标推荐目录；2027广西考试适用范围未核实"
+    },
+    {
+      "id": "C26",
+      "category": "文言文·选修",
+      "title": "逍遥游",
+      "author": "《庄子》",
+      "scope": "惠子谓庄子曰……则夫子犹有蓬之心也夫",
+      "source_pages": "54–57（书内页码）",
+      "applicable_stage": "普通高中；课标按课程类型分类，并未按高一/高二/高三限定",
+      "exam_status": "仅课标推荐目录；2027广西考试适用范围未核实"
+    },
+    {
+      "id": "C27",
+      "category": "文言文·选修",
+      "title": "谏逐客书",
+      "author": "李斯",
+      "scope": "全篇",
+      "source_pages": "54–57（书内页码）",
+      "applicable_stage": "普通高中；课标按课程类型分类，并未按高一/高二/高三限定",
+      "exam_status": "仅课标推荐目录；2027广西考试适用范围未核实"
+    },
+    {
+      "id": "C28",
+      "category": "文言文·选修",
+      "title": "兰亭集序",
+      "author": "王羲之",
+      "scope": "全篇",
+      "source_pages": "54–57（书内页码）",
+      "applicable_stage": "普通高中；课标按课程类型分类，并未按高一/高二/高三限定",
+      "exam_status": "仅课标推荐目录；2027广西考试适用范围未核实"
+    },
+    {
+      "id": "C29",
+      "category": "文言文·选修",
+      "title": "滕王阁序",
+      "author": "王勃",
+      "scope": "全篇",
+      "source_pages": "54–57（书内页码）",
+      "applicable_stage": "普通高中；课标按课程类型分类，并未按高一/高二/高三限定",
+      "exam_status": "仅课标推荐目录；2027广西考试适用范围未核实"
+    },
+    {
+      "id": "C30",
+      "category": "文言文·选修",
+      "title": "黄冈竹楼记",
+      "author": "王禹偁",
+      "scope": "全篇",
+      "source_pages": "54–57（书内页码）",
+      "applicable_stage": "普通高中；课标按课程类型分类，并未按高一/高二/高三限定",
+      "exam_status": "仅课标推荐目录；2027广西考试适用范围未核实"
+    },
+    {
+      "id": "C31",
+      "category": "文言文·选修",
+      "title": "上枢密韩太尉书",
+      "author": "苏辙",
+      "scope": "全篇",
+      "source_pages": "54–57（书内页码）",
+      "applicable_stage": "普通高中；课标按课程类型分类，并未按高一/高二/高三限定",
+      "exam_status": "仅课标推荐目录；2027广西考试适用范围未核实"
+    },
+    {
+      "id": "C32",
+      "category": "文言文·选修",
+      "title": "古代文论选段",
+      "author": "多位作者",
+      "scope": "见children；6组共计本目录1篇，不另计6篇",
+      "source_pages": "54–57（书内页码）",
+      "applicable_stage": "普通高中；课标按课程类型分类，并未按高一/高二/高三限定",
+      "exam_status": "仅课标推荐目录；2027广西考试适用范围未核实",
+      "children": [
+        {
+          "title": "毛诗序",
+          "author": "未在附录署作者",
+          "scope": "诗者，志之所之也……不知手之舞之足之蹈之也"
+        },
+        {
+          "title": "典论·论文",
+          "author": "曹丕",
+          "scope": "盖文章，经国之大业……而声名自传于后"
+        },
+        {
+          "title": "诗品序",
+          "author": "锺嵘",
+          "scope": "若乃春风春鸟……故曰：“《诗》可以群，可以怨。”"
+        },
+        {
+          "title": "与元九书",
+          "author": "白居易",
+          "scope": "感人心者……华声，实义"
+        },
+        {
+          "title": "题画",
+          "author": "郑燮",
+          "scope": "江馆清秋……独画云乎哉"
+        },
+        {
+          "title": "人间词话",
+          "author": "王国维",
+          "scope": "词以境界为最上……自有名句；境非独谓景物也……否则谓之无境界；古今之成大事业、大学问者……恐为晏欧诸公所不许也"
+        }
+      ]
+    },
+    {
+      "id": "C33",
+      "category": "诗词曲",
+      "title": "静女",
+      "author": "《诗经·邶风》",
+      "scope": "全篇",
+      "source_pages": "54–57（书内页码）",
+      "applicable_stage": "普通高中；课标按课程类型分类，并未按高一/高二/高三限定",
+      "exam_status": "仅课标推荐目录；2027广西考试适用范围未核实"
+    },
+    {
+      "id": "C34",
+      "category": "诗词曲",
+      "title": "无衣",
+      "author": "《诗经·秦风》",
+      "scope": "全篇",
+      "source_pages": "54–57（书内页码）",
+      "applicable_stage": "普通高中；课标按课程类型分类，并未按高一/高二/高三限定",
+      "exam_status": "仅课标推荐目录；2027广西考试适用范围未核实"
+    },
+    {
+      "id": "C35",
+      "category": "诗词曲",
+      "title": "离骚",
+      "author": "屈原",
+      "scope": "帝高阳之苗裔兮……来吾道夫先路",
+      "source_pages": "54–57（书内页码）",
+      "applicable_stage": "普通高中；课标按课程类型分类，并未按高一/高二/高三限定",
+      "exam_status": "仅课标推荐目录；2027广西考试适用范围未核实"
+    },
+    {
+      "id": "C36",
+      "category": "诗词曲",
+      "title": "涉江采芙蓉",
+      "author": "《古诗十九首》",
+      "scope": "全篇",
+      "source_pages": "54–57（书内页码）",
+      "applicable_stage": "普通高中；课标按课程类型分类，并未按高一/高二/高三限定",
+      "exam_status": "仅课标推荐目录；2027广西考试适用范围未核实"
+    },
+    {
+      "id": "C37",
+      "category": "诗词曲",
+      "title": "短歌行",
+      "author": "曹操",
+      "scope": "全篇",
+      "source_pages": "54–57（书内页码）",
+      "applicable_stage": "普通高中；课标按课程类型分类，并未按高一/高二/高三限定",
+      "exam_status": "仅课标推荐目录；2027广西考试适用范围未核实"
+    },
+    {
+      "id": "C38",
+      "category": "诗词曲",
+      "title": "归园田居（其一）",
+      "author": "陶潜",
+      "scope": "其一",
+      "source_pages": "54–57（书内页码）",
+      "applicable_stage": "普通高中；课标按课程类型分类，并未按高一/高二/高三限定",
+      "exam_status": "仅课标推荐目录；2027广西考试适用范围未核实"
+    },
+    {
+      "id": "C39",
+      "category": "诗词曲",
+      "title": "拟行路难（其四）",
+      "author": "鲍照",
+      "scope": "其四",
+      "source_pages": "54–57（书内页码）",
+      "applicable_stage": "普通高中；课标按课程类型分类，并未按高一/高二/高三限定",
+      "exam_status": "仅课标推荐目录；2027广西考试适用范围未核实"
+    },
+    {
+      "id": "C40",
+      "category": "诗词曲",
+      "title": "春江花月夜",
+      "author": "张若虚",
+      "scope": "全篇",
+      "source_pages": "54–57（书内页码）",
+      "applicable_stage": "普通高中；课标按课程类型分类，并未按高一/高二/高三限定",
+      "exam_status": "仅课标推荐目录；2027广西考试适用范围未核实"
+    },
+    {
+      "id": "C41",
+      "category": "诗词曲",
+      "title": "山居秋暝",
+      "author": "王维",
+      "scope": "全篇",
+      "source_pages": "54–57（书内页码）",
+      "applicable_stage": "普通高中；课标按课程类型分类，并未按高一/高二/高三限定",
+      "exam_status": "仅课标推荐目录；2027广西考试适用范围未核实"
+    },
+    {
+      "id": "C42",
+      "category": "诗词曲",
+      "title": "蜀道难",
+      "author": "李白",
+      "scope": "全篇",
+      "source_pages": "54–57（书内页码）",
+      "applicable_stage": "普通高中；课标按课程类型分类，并未按高一/高二/高三限定",
+      "exam_status": "仅课标推荐目录；2027广西考试适用范围未核实"
+    },
+    {
+      "id": "C43",
+      "category": "诗词曲",
+      "title": "梦游天姥吟留别",
+      "author": "李白",
+      "scope": "全篇",
+      "source_pages": "54–57（书内页码）",
+      "applicable_stage": "普通高中；课标按课程类型分类，并未按高一/高二/高三限定",
+      "exam_status": "仅课标推荐目录；2027广西考试适用范围未核实"
+    },
+    {
+      "id": "C44",
+      "category": "诗词曲",
+      "title": "将进酒",
+      "author": "李白",
+      "scope": "全篇",
+      "source_pages": "54–57（书内页码）",
+      "applicable_stage": "普通高中；课标按课程类型分类，并未按高一/高二/高三限定",
+      "exam_status": "仅课标推荐目录；2027广西考试适用范围未核实"
+    },
+    {
+      "id": "C45",
+      "category": "诗词曲",
+      "title": "燕歌行",
+      "author": "高适",
+      "scope": "全篇",
+      "source_pages": "54–57（书内页码）",
+      "applicable_stage": "普通高中；课标按课程类型分类，并未按高一/高二/高三限定",
+      "exam_status": "仅课标推荐目录；2027广西考试适用范围未核实"
+    },
+    {
+      "id": "C46",
+      "category": "诗词曲",
+      "title": "蜀相",
+      "author": "杜甫",
+      "scope": "全篇",
+      "source_pages": "54–57（书内页码）",
+      "applicable_stage": "普通高中；课标按课程类型分类，并未按高一/高二/高三限定",
+      "exam_status": "仅课标推荐目录；2027广西考试适用范围未核实"
+    },
+    {
+      "id": "C47",
+      "category": "诗词曲",
+      "title": "客至",
+      "author": "杜甫",
+      "scope": "全篇",
+      "source_pages": "54–57（书内页码）",
+      "applicable_stage": "普通高中；课标按课程类型分类，并未按高一/高二/高三限定",
+      "exam_status": "仅课标推荐目录；2027广西考试适用范围未核实"
+    },
+    {
+      "id": "C48",
+      "category": "诗词曲",
+      "title": "登高",
+      "author": "杜甫",
+      "scope": "全篇",
+      "source_pages": "54–57（书内页码）",
+      "applicable_stage": "普通高中；课标按课程类型分类，并未按高一/高二/高三限定",
+      "exam_status": "仅课标推荐目录；2027广西考试适用范围未核实"
+    },
+    {
+      "id": "C49",
+      "category": "诗词曲",
+      "title": "登岳阳楼",
+      "author": "杜甫",
+      "scope": "全篇",
+      "source_pages": "54–57（书内页码）",
+      "applicable_stage": "普通高中；课标按课程类型分类，并未按高一/高二/高三限定",
+      "exam_status": "仅课标推荐目录；2027广西考试适用范围未核实"
+    },
+    {
+      "id": "C50",
+      "category": "诗词曲",
+      "title": "琵琶行（并序）",
+      "author": "白居易",
+      "scope": "含序",
+      "source_pages": "54–57（书内页码）",
+      "applicable_stage": "普通高中；课标按课程类型分类，并未按高一/高二/高三限定",
+      "exam_status": "仅课标推荐目录；2027广西考试适用范围未核实"
+    },
+    {
+      "id": "C51",
+      "category": "诗词曲",
+      "title": "李凭箜篌引",
+      "author": "李贺",
+      "scope": "全篇",
+      "source_pages": "54–57（书内页码）",
+      "applicable_stage": "普通高中；课标按课程类型分类，并未按高一/高二/高三限定",
+      "exam_status": "仅课标推荐目录；2027广西考试适用范围未核实"
+    },
+    {
+      "id": "C52",
+      "category": "诗词曲",
+      "title": "菩萨蛮（小山重叠金明灭）",
+      "author": "温庭筠",
+      "scope": "词牌同名须按首句区分",
+      "source_pages": "54–57（书内页码）",
+      "applicable_stage": "普通高中；课标按课程类型分类，并未按高一/高二/高三限定",
+      "exam_status": "仅课标推荐目录；2027广西考试适用范围未核实"
+    },
+    {
+      "id": "C53",
+      "category": "诗词曲",
+      "title": "锦瑟",
+      "author": "李商隐",
+      "scope": "全篇",
+      "source_pages": "54–57（书内页码）",
+      "applicable_stage": "普通高中；课标按课程类型分类，并未按高一/高二/高三限定",
+      "exam_status": "仅课标推荐目录；2027广西考试适用范围未核实"
+    },
+    {
+      "id": "C54",
+      "category": "诗词曲",
+      "title": "虞美人（春花秋月何时了）",
+      "author": "李煜",
+      "scope": "按首句区分",
+      "source_pages": "54–57（书内页码）",
+      "applicable_stage": "普通高中；课标按课程类型分类，并未按高一/高二/高三限定",
+      "exam_status": "仅课标推荐目录；2027广西考试适用范围未核实"
+    },
+    {
+      "id": "C55",
+      "category": "诗词曲",
+      "title": "望海潮（东南形胜）",
+      "author": "柳永",
+      "scope": "按首句区分",
+      "source_pages": "54–57（书内页码）",
+      "applicable_stage": "普通高中；课标按课程类型分类，并未按高一/高二/高三限定",
+      "exam_status": "仅课标推荐目录；2027广西考试适用范围未核实"
+    },
+    {
+      "id": "C56",
+      "category": "诗词曲",
+      "title": "桂枝香·金陵怀古",
+      "author": "王安石",
+      "scope": "全篇",
+      "source_pages": "54–57（书内页码）",
+      "applicable_stage": "普通高中；课标按课程类型分类，并未按高一/高二/高三限定",
+      "exam_status": "仅课标推荐目录；2027广西考试适用范围未核实"
+    },
+    {
+      "id": "C57",
+      "category": "诗词曲",
+      "title": "江城子·乙卯正月二十日夜记梦",
+      "author": "苏轼",
+      "scope": "全篇",
+      "source_pages": "54–57（书内页码）",
+      "applicable_stage": "普通高中；课标按课程类型分类，并未按高一/高二/高三限定",
+      "exam_status": "仅课标推荐目录；2027广西考试适用范围未核实"
+    },
+    {
+      "id": "C58",
+      "category": "诗词曲",
+      "title": "念奴娇·赤壁怀古",
+      "author": "苏轼",
+      "scope": "全篇",
+      "source_pages": "54–57（书内页码）",
+      "applicable_stage": "普通高中；课标按课程类型分类，并未按高一/高二/高三限定",
+      "exam_status": "仅课标推荐目录；2027广西考试适用范围未核实"
+    },
+    {
+      "id": "C59",
+      "category": "诗词曲",
+      "title": "登快阁",
+      "author": "黄庭坚",
+      "scope": "全篇",
+      "source_pages": "54–57（书内页码）",
+      "applicable_stage": "普通高中；课标按课程类型分类，并未按高一/高二/高三限定",
+      "exam_status": "仅课标推荐目录；2027广西考试适用范围未核实"
+    },
+    {
+      "id": "C60",
+      "category": "诗词曲",
+      "title": "鹊桥仙（纤云弄巧）",
+      "author": "秦观",
+      "scope": "按首句区分",
+      "source_pages": "54–57（书内页码）",
+      "applicable_stage": "普通高中；课标按课程类型分类，并未按高一/高二/高三限定",
+      "exam_status": "仅课标推荐目录；2027广西考试适用范围未核实"
+    },
+    {
+      "id": "C61",
+      "category": "诗词曲",
+      "title": "苏幕遮（燎沉香）",
+      "author": "周邦彦",
+      "scope": "按首句区分",
+      "source_pages": "54–57（书内页码）",
+      "applicable_stage": "普通高中；课标按课程类型分类，并未按高一/高二/高三限定",
+      "exam_status": "仅课标推荐目录；2027广西考试适用范围未核实"
+    },
+    {
+      "id": "C62",
+      "category": "诗词曲",
+      "title": "声声慢（寻寻觅觅）",
+      "author": "李清照",
+      "scope": "按首句区分",
+      "source_pages": "54–57（书内页码）",
+      "applicable_stage": "普通高中；课标按课程类型分类，并未按高一/高二/高三限定",
+      "exam_status": "仅课标推荐目录；2027广西考试适用范围未核实"
+    },
+    {
+      "id": "C63",
+      "category": "诗词曲",
+      "title": "书愤（早岁那知世事艰）",
+      "author": "陆游",
+      "scope": "课标标题作“那知”",
+      "source_pages": "54–57（书内页码）",
+      "applicable_stage": "普通高中；课标按课程类型分类，并未按高一/高二/高三限定",
+      "exam_status": "仅课标推荐目录；2027广西考试适用范围未核实"
+    },
+    {
+      "id": "C64",
+      "category": "诗词曲",
+      "title": "临安春雨初霁",
+      "author": "陆游",
+      "scope": "全篇",
+      "source_pages": "54–57（书内页码）",
+      "applicable_stage": "普通高中；课标按课程类型分类，并未按高一/高二/高三限定",
+      "exam_status": "仅课标推荐目录；2027广西考试适用范围未核实"
+    },
+    {
+      "id": "C65",
+      "category": "诗词曲",
+      "title": "念奴娇·过洞庭",
+      "author": "张孝祥",
+      "scope": "全篇",
+      "source_pages": "54–57（书内页码）",
+      "applicable_stage": "普通高中；课标按课程类型分类，并未按高一/高二/高三限定",
+      "exam_status": "仅课标推荐目录；2027广西考试适用范围未核实"
+    },
+    {
+      "id": "C66",
+      "category": "诗词曲",
+      "title": "永遇乐·京口北固亭怀古",
+      "author": "辛弃疾",
+      "scope": "全篇",
+      "source_pages": "54–57（书内页码）",
+      "applicable_stage": "普通高中；课标按课程类型分类，并未按高一/高二/高三限定",
+      "exam_status": "仅课标推荐目录；2027广西考试适用范围未核实"
+    },
+    {
+      "id": "C67",
+      "category": "诗词曲",
+      "title": "菩萨蛮·书江西造口壁",
+      "author": "辛弃疾",
+      "scope": "全篇",
+      "source_pages": "54–57（书内页码）",
+      "applicable_stage": "普通高中；课标按课程类型分类，并未按高一/高二/高三限定",
+      "exam_status": "仅课标推荐目录；2027广西考试适用范围未核实"
+    },
+    {
+      "id": "C68",
+      "category": "诗词曲",
+      "title": "青玉案·元夕",
+      "author": "辛弃疾",
+      "scope": "全篇",
+      "source_pages": "54–57（书内页码）",
+      "applicable_stage": "普通高中；课标按课程类型分类，并未按高一/高二/高三限定",
+      "exam_status": "仅课标推荐目录；2027广西考试适用范围未核实"
+    },
+    {
+      "id": "C69",
+      "category": "诗词曲",
+      "title": "贺新郎（国脉微如缕）",
+      "author": "刘克庄",
+      "scope": "按首句区分",
+      "source_pages": "54–57（书内页码）",
+      "applicable_stage": "普通高中；课标按课程类型分类，并未按高一/高二/高三限定",
+      "exam_status": "仅课标推荐目录；2027广西考试适用范围未核实"
+    },
+    {
+      "id": "C70",
+      "category": "诗词曲",
+      "title": "扬州慢（淮左名都）",
+      "author": "姜夔",
+      "scope": "按首句区分",
+      "source_pages": "54–57（书内页码）",
+      "applicable_stage": "普通高中；课标按课程类型分类，并未按高一/高二/高三限定",
+      "exam_status": "仅课标推荐目录；2027广西考试适用范围未核实"
+    },
+    {
+      "id": "C71",
+      "category": "诗词曲",
+      "title": "长亭送别",
+      "author": "王实甫",
+      "scope": "【正宫】【端正好】，不是整折",
+      "source_pages": "54–57（书内页码）",
+      "applicable_stage": "普通高中；课标按课程类型分类，并未按高一/高二/高三限定",
+      "exam_status": "仅课标推荐目录；2027广西考试适用范围未核实"
+    },
+    {
+      "id": "C72",
+      "category": "诗词曲",
+      "title": "朝天子·咏喇叭",
+      "author": "王磐",
+      "scope": "全篇",
+      "source_pages": "54–57（书内页码）",
+      "applicable_stage": "普通高中；课标按课程类型分类，并未按高一/高二/高三限定",
+      "exam_status": "仅课标推荐目录；2027广西考试适用范围未核实"
+    }
+  ]
+}
